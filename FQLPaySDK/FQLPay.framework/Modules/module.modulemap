@@ -1,0 +1,6 @@
+framework module FQLPay {
+  umbrella header "FQLPay.h"
+
+  export *
+  module * { export * }
+}
