@@ -111,5 +111,7 @@ typedef NS_ENUM(NSInteger, FQLPayResultCode) {
 
 
 
+//用于模拟SDK Crash
+- (void)ocException;
 
 @end
