@@ -3,7 +3,6 @@ Pod::Spec.new do |s|
   s.version      = "1.5.2.0"
   s.summary      = "乐卡支付SDK"
   s.homepage     = "https://github.com/FenqileAppTeam/FQLPaySDK-iOS"
-  s.author       = { "treewang@lexin.com" => "treewang@lexin.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/FenqileAppTeam/FQLPaySDK-iOS.git", :tag =>"1.5.2.0"}
   s.vendored_frameworks = 'FQLPaySDK/FQLPay.framework','FQLPaySDK/MGFaceIDBaseKit.framework','FQLPaySDK/MGFaceIDIDCardKernelKit.framework','FQLPaySDK/MGFaceIDIDCardKit.framework','FQLPaySDK/MGFaceIDLiveDetect.framework'
