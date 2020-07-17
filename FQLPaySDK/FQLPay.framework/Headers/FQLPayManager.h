@@ -34,7 +34,7 @@ typedef NS_ENUM(NSInteger, FQLPayResultCode) {
 
 @optional
 /**
- YES：使用WKWebView,NO：使用UIWebVIew
+ YES：使用WKWebView
  默认YES
  */
 - (BOOL)useWKWebView;
