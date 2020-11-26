@@ -26,3 +26,4 @@
 "livenessHomePromptNoMouthOcclusionText" = "请勿遮挡嘴巴";
 "livenessHomePromptVerticalText" = "请您拿起手机，保持手机垂直";
 "livenessHomePromptStayStillText" = "很好，请保持不动";
+"livenessHomePromptTooBrightText" = "光线过亮，请到更暗的环境中验证";

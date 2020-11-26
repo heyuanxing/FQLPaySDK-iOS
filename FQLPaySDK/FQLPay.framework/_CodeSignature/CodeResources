@@ -8,17 +8,29 @@
 		<data>
 		UCkL9r78+RyyTBhK+cokldpRuL8=
 		</data>
+		<key>FQLAntiFraudBundle.bundle/fraudAppList.plist</key>
+		<data>
+		BeiUj3i84Zt1yQp3LoHIRCq916s=
+		</data>
+		<key>Headers/FQLFaceBizParams.h</key>
+		<data>
+		t2vnJlwRFKT7PkMS5RYF0Bhmvug=
+		</data>
+		<key>Headers/FQLFaceResultModel.h</key>
+		<data>
+		ECEBwO9UFxBPRp0bH2I8H4TkJtM=
+		</data>
 		<key>Headers/FQLPay.h</key>
 		<data>
 		Vu0SNvYc9KZiyzcAKe/kf2TCp0U=
 		</data>
 		<key>Headers/FQLPayManager.h</key>
 		<data>
-		izOEPqqhLFoO8TXPSetTbcYhmtA=
+		0kYNAjggZ/PXw+XNa1fu849QV54=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		e75fKQ7HRNFLZjZaY9aX+C9LssY=
+		mcLtvVYPwT8cKeiXl1NLW5zKzxY=
 		</data>
 		<key>MGFaceIDIDCardResouce.bundle/MGFaceIDDetection.strings</key>
 		<data>
@@ -120,6 +132,14 @@
 		<data>
 		ptJvXzbKOM1klPPo4NwbfXBMVpE=
 		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/Meg_Face_Landmark</key>
+		<data>
+		NhBtKjeYLvcWoOr/qqYJhnFa8Ig=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/Meg_Face_Rect</key>
+		<data>
+		C6c5JLL1kOjTuwoWI+qRfmTG7bE=
+		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/Meg_Live</key>
 		<data>
 		5BVSa9jC4UWP32eAOpu/79GnkEY=
@@ -166,7 +186,7 @@
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/build_info</key>
 		<data>
-		KHf8hZ0ks325AFcYzcu+aK7yvIo=
+		6VzI5OI0ZigM2chGTsR8THARCe4=
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_blink_eye_close.png</key>
 		<data>
@@ -175,6 +195,14 @@
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_blink_eye_open.png</key>
 		<data>
 		ta2hKz5/8EIo7CvL+7BHXbxRkxs=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_detect_remind_icon@2x.png</key>
+		<data>
+		Iqn2QoHhCrvV3rJst9SyUyMDIFo=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_detect_remind_icon@3x.png</key>
+		<data>
+		ifkiyIkIgFr0WyKVtIOWS5WNlu4=
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_home_closeicon@2x.png</key>
 		<data>
@@ -192,6 +220,38 @@
 		<data>
 		WfmrjD6V+SAzML2SPssbnWLL63M=
 		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_home_white_closeicon@2x.png</key>
+		<data>
+		yONgkHUDSdBU4FBPGhJFGmfiSzI=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_home_white_closeicon@3x.png</key>
+		<data>
+		LDtUmopB1p4aY9gMVBMLh7Ai4Xo=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_flash@2x.png</key>
+		<data>
+		7umO/EYajr329RioXV/oB1wUTTg=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_flash@3x.png</key>
+		<data>
+		dC+vIOVJbQA7U1mO1sj55uehYn8=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_lookmirror@2x.png</key>
+		<data>
+		Z5thT+DSZxDzi2qNzHipCHwUka0=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_lookmirror@3x.png</key>
+		<data>
+		Ydvg3uzrVRHHmbXjUzQTPf37Ak4=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_mask_outside@2x.png</key>
+		<data>
+		BF6/KLmTJh6YBpR+jo+F9tXnrco=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_mask_outside@3x.png</key>
+		<data>
+		s+zreTBWTtwRpeGV20oOr/F5L1Y=
+		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mouth_close.png</key>
 		<data>
 		ta2hKz5/8EIo7CvL+7BHXbxRkxs=
@@ -207,6 +267,18 @@
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_nod_up.png</key>
 		<data>
 		YYYgxxwSvZjCnZpzvxhk2HAOZ/k=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_remind_check@2x.png</key>
+		<data>
+		0nJscW05zQuoUOSPF6BHBggvqCs=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_remind_return@2x.png</key>
+		<data>
+		BSsqh4oMOgpFjLN6CrXv5EYDE74=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_remind_uncheck@2x.png</key>
+		<data>
+		0VWQ2MutjblqeJDSyfSKQlPjhNQ=
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_shakehead_left.png</key>
 		<data>
@@ -224,6 +296,14 @@
 		<data>
 		ta2hKz5/8EIo7CvL+7BHXbxRkxs=
 		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_detect_remind_icon@2x.png</key>
+		<data>
+		Iqn2QoHhCrvV3rJst9SyUyMDIFo=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_detect_remind_icon@3x.png</key>
+		<data>
+		ifkiyIkIgFr0WyKVtIOWS5WNlu4=
+		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_closeicon@2x.png</key>
 		<data>
 		uAIKPfd8zJqwZdGPj+57VTVSR/s=
@@ -239,6 +319,38 @@
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_loadingicon@3x.png</key>
 		<data>
 		WfmrjD6V+SAzML2SPssbnWLL63M=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_white_closeicon@2x.png</key>
+		<data>
+		yONgkHUDSdBU4FBPGhJFGmfiSzI=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_white_closeicon@3x.png</key>
+		<data>
+		LDtUmopB1p4aY9gMVBMLh7Ai4Xo=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_flash@2x.png</key>
+		<data>
+		7umO/EYajr329RioXV/oB1wUTTg=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_flash@3x.png</key>
+		<data>
+		dC+vIOVJbQA7U1mO1sj55uehYn8=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_lookmirror@2x.png</key>
+		<data>
+		Z5thT+DSZxDzi2qNzHipCHwUka0=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_lookmirror@3x.png</key>
+		<data>
+		Ydvg3uzrVRHHmbXjUzQTPf37Ak4=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_mask_outside@2x.png</key>
+		<data>
+		BF6/KLmTJh6YBpR+jo+F9tXnrco=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_mask_outside@3x.png</key>
+		<data>
+		s+zreTBWTtwRpeGV20oOr/F5L1Y=
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mouth_close.png</key>
 		<data>
@@ -256,6 +368,18 @@
 		<data>
 		YYYgxxwSvZjCnZpzvxhk2HAOZ/k=
 		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_remind_check@2x.png</key>
+		<data>
+		0nJscW05zQuoUOSPF6BHBggvqCs=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_remind_return@2x.png</key>
+		<data>
+		BSsqh4oMOgpFjLN6CrXv5EYDE74=
+		</data>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_remind_uncheck@2x.png</key>
+		<data>
+		0VWQ2MutjblqeJDSyfSKQlPjhNQ=
+		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_shakehead_left.png</key>
 		<data>
 		kJ+DbbpIHcAIigTtntOVj925vBo=
@@ -270,15 +394,19 @@
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/text/ch/MGFaceIDDetection.strings</key>
 		<data>
-		TyLS7OMz0/Z6jqXnpkWZOEF4DxQ=
+		E1Ffl8yISoWP7AeartjLcXQMPl4=
 		</data>
 		<key>MGFaceIDLiveCustomDetect.bundle/text/en/MGFaceIDDetection.strings</key>
 		<data>
-		Cs4HN5YNu4XiWXUcIMBQH+2FRrU=
+		BAsk2aMiZn6FK/VmIh0muciiHAQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		d23luVyPSqM9SDgKrCTkoywp9Mw=
+		</data>
+		<key>_README.md</key>
+		<data>
+		F2/OzLyJJjGAvoEXBtGrA/IV4vY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -292,6 +420,39 @@
 			<key>hash2</key>
 			<data>
 			oc3O7fYiqSXa234B3hz1DkR6Ihr8/V/P6YUBpHu8a3k=
+			</data>
+		</dict>
+		<key>FQLAntiFraudBundle.bundle/fraudAppList.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BeiUj3i84Zt1yQp3LoHIRCq916s=
+			</data>
+			<key>hash2</key>
+			<data>
+			0lUIMzpkOnxVv+zBXzX8hsbSruaDYhqdTG1R2l2F/dw=
+			</data>
+		</dict>
+		<key>Headers/FQLFaceBizParams.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t2vnJlwRFKT7PkMS5RYF0Bhmvug=
+			</data>
+			<key>hash2</key>
+			<data>
+			gEV9tWeI7F4F5X5Um3PNsLF86muW5AeqozqTFybB2RU=
+			</data>
+		</dict>
+		<key>Headers/FQLFaceResultModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ECEBwO9UFxBPRp0bH2I8H4TkJtM=
+			</data>
+			<key>hash2</key>
+			<data>
+			kQN+MkJNz5DawKS1wdhi7R7+NlHaA/Je1DXl4uVmLl8=
 			</data>
 		</dict>
 		<key>Headers/FQLPay.h</key>
@@ -309,11 +470,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			izOEPqqhLFoO8TXPSetTbcYhmtA=
+			0kYNAjggZ/PXw+XNa1fu849QV54=
 			</data>
 			<key>hash2</key>
 			<data>
-			6vw/XzvzPl2SWlpesP1KcNJoLtBqTl94HbtF+ooAu1s=
+			gN1inza3ODEOMQck660/MZctW+PtWNsoWBfjUcjEtsU=
 			</data>
 		</dict>
 		<key>MGFaceIDIDCardResouce.bundle/MGFaceIDDetection.strings</key>
@@ -591,6 +752,28 @@
 			3C8oamhf8U/cEpxVdqOEgWNMEu5RceCA/EYbTpQLNZQ=
 			</data>
 		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/Meg_Face_Landmark</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NhBtKjeYLvcWoOr/qqYJhnFa8Ig=
+			</data>
+			<key>hash2</key>
+			<data>
+			S468ms7XyVtCx8J8+xYMtHgQ9V2PNgz05EMyk0xwKBA=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/Meg_Face_Rect</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C6c5JLL1kOjTuwoWI+qRfmTG7bE=
+			</data>
+			<key>hash2</key>
+			<data>
+			VwTyYe75Q1/abWYhaisZAzqK2Y0jhtsafvH+bRh7qTM=
+			</data>
+		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/Meg_Live</key>
 		<dict>
 			<key>hash</key>
@@ -716,11 +899,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KHf8hZ0ks325AFcYzcu+aK7yvIo=
+			6VzI5OI0ZigM2chGTsR8THARCe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			LgdTEjST0Uj0d6Dxvi4lqchD0fGLTb7ogBj9wLMRkh8=
+			OHHT7VbDVa3eVwIpl6hwNAIbvG1l+UeECKThkd/CTOY=
 			</data>
 		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_blink_eye_close.png</key>
@@ -743,6 +926,28 @@
 			<key>hash2</key>
 			<data>
 			ZXjhjK+akMDWLYjuVocAlviaXfKRdVlud0a6+HRz1WM=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_detect_remind_icon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Iqn2QoHhCrvV3rJst9SyUyMDIFo=
+			</data>
+			<key>hash2</key>
+			<data>
+			U9AU5qgf19iFhi6JjiQwy4dOAHWgRAvShUDR2COvijY=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_detect_remind_icon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ifkiyIkIgFr0WyKVtIOWS5WNlu4=
+			</data>
+			<key>hash2</key>
+			<data>
+			1OVfGH/8PhLW0cq9YTL4/XdkFbgOfoGA9h0o9Te6Ce8=
 			</data>
 		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_home_closeicon@2x.png</key>
@@ -789,6 +994,94 @@
 			vpFBRnWQYoPKdjfnKsLdVIzwR+679MfyZbM0Ps/IVVY=
 			</data>
 		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_home_white_closeicon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yONgkHUDSdBU4FBPGhJFGmfiSzI=
+			</data>
+			<key>hash2</key>
+			<data>
+			pH/f4Fk3F+PGlVsmybU8196oYqg2SYUE4Qjjslnl5sI=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_home_white_closeicon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LDtUmopB1p4aY9gMVBMLh7Ai4Xo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z4M3zL2XCCyVbf9LLe0qRLLtamSrXjfeXOgRPRHHM50=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_flash@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7umO/EYajr329RioXV/oB1wUTTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			6fjHg5TVvnPDUqF/UVqoz5uvV/xyVvfAIUbkiXKdQf8=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_flash@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dC+vIOVJbQA7U1mO1sj55uehYn8=
+			</data>
+			<key>hash2</key>
+			<data>
+			XdMWLJYdwNAohJScM0+fzlxNkeGhVsuoSToTQXzfQtc=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_lookmirror@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z5thT+DSZxDzi2qNzHipCHwUka0=
+			</data>
+			<key>hash2</key>
+			<data>
+			8qx2eEl7KBKxQGq/NZ0CGDRlTj4SXh8sU38FMHHVo9g=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_lookmirror@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ydvg3uzrVRHHmbXjUzQTPf37Ak4=
+			</data>
+			<key>hash2</key>
+			<data>
+			3gesvG1wbYpfzLjVQJsr2F1/QIovwuRvH0CCGeIzWe4=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_mask_outside@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BF6/KLmTJh6YBpR+jo+F9tXnrco=
+			</data>
+			<key>hash2</key>
+			<data>
+			lbpZ4WXZ3z1tXIl6w4cNNpypyATt9ufrnzC1F/UcNp4=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mask_face_mask_outside@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s+zreTBWTtwRpeGV20oOr/F5L1Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			RIEUIlJszXv+OhWL+p7jIKfJpno/NWLgM1pXi+lXHdU=
+			</data>
+		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_mouth_close.png</key>
 		<dict>
 			<key>hash</key>
@@ -831,6 +1124,39 @@
 			<key>hash2</key>
 			<data>
 			YVLi/08Zq4MF8DwH+z/yTPaWt+LJ6IY8ZNnWsvTtxjI=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_remind_check@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0nJscW05zQuoUOSPF6BHBggvqCs=
+			</data>
+			<key>hash2</key>
+			<data>
+			t38kpu6Vg6REikMZ3gakMNsQd/8bh++xYBobbD5Ks8g=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_remind_return@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BSsqh4oMOgpFjLN6CrXv5EYDE74=
+			</data>
+			<key>hash2</key>
+			<data>
+			NL3arDE6lI3cSv2mgxchf2xpYhHpBqijhqbQbB2bP+Y=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_remind_uncheck@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0VWQ2MutjblqeJDSyfSKQlPjhNQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XjQPDNKLj3o8PnTnOhY02rEWPUrTCgVWObEhNVTK0uQ=
 			</data>
 		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/ch/liveness_shakehead_left.png</key>
@@ -877,6 +1203,28 @@
 			ZXjhjK+akMDWLYjuVocAlviaXfKRdVlud0a6+HRz1WM=
 			</data>
 		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_detect_remind_icon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Iqn2QoHhCrvV3rJst9SyUyMDIFo=
+			</data>
+			<key>hash2</key>
+			<data>
+			U9AU5qgf19iFhi6JjiQwy4dOAHWgRAvShUDR2COvijY=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_detect_remind_icon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ifkiyIkIgFr0WyKVtIOWS5WNlu4=
+			</data>
+			<key>hash2</key>
+			<data>
+			1OVfGH/8PhLW0cq9YTL4/XdkFbgOfoGA9h0o9Te6Ce8=
+			</data>
+		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_closeicon@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -919,6 +1267,94 @@
 			<key>hash2</key>
 			<data>
 			vpFBRnWQYoPKdjfnKsLdVIzwR+679MfyZbM0Ps/IVVY=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_white_closeicon@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yONgkHUDSdBU4FBPGhJFGmfiSzI=
+			</data>
+			<key>hash2</key>
+			<data>
+			pH/f4Fk3F+PGlVsmybU8196oYqg2SYUE4Qjjslnl5sI=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_home_white_closeicon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LDtUmopB1p4aY9gMVBMLh7Ai4Xo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z4M3zL2XCCyVbf9LLe0qRLLtamSrXjfeXOgRPRHHM50=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_flash@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7umO/EYajr329RioXV/oB1wUTTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			6fjHg5TVvnPDUqF/UVqoz5uvV/xyVvfAIUbkiXKdQf8=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_flash@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dC+vIOVJbQA7U1mO1sj55uehYn8=
+			</data>
+			<key>hash2</key>
+			<data>
+			XdMWLJYdwNAohJScM0+fzlxNkeGhVsuoSToTQXzfQtc=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_lookmirror@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z5thT+DSZxDzi2qNzHipCHwUka0=
+			</data>
+			<key>hash2</key>
+			<data>
+			8qx2eEl7KBKxQGq/NZ0CGDRlTj4SXh8sU38FMHHVo9g=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_lookmirror@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ydvg3uzrVRHHmbXjUzQTPf37Ak4=
+			</data>
+			<key>hash2</key>
+			<data>
+			3gesvG1wbYpfzLjVQJsr2F1/QIovwuRvH0CCGeIzWe4=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_mask_outside@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BF6/KLmTJh6YBpR+jo+F9tXnrco=
+			</data>
+			<key>hash2</key>
+			<data>
+			lbpZ4WXZ3z1tXIl6w4cNNpypyATt9ufrnzC1F/UcNp4=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mask_face_mask_outside@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s+zreTBWTtwRpeGV20oOr/F5L1Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			RIEUIlJszXv+OhWL+p7jIKfJpno/NWLgM1pXi+lXHdU=
 			</data>
 		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_mouth_close.png</key>
@@ -965,6 +1401,39 @@
 			YVLi/08Zq4MF8DwH+z/yTPaWt+LJ6IY8ZNnWsvTtxjI=
 			</data>
 		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_remind_check@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0nJscW05zQuoUOSPF6BHBggvqCs=
+			</data>
+			<key>hash2</key>
+			<data>
+			t38kpu6Vg6REikMZ3gakMNsQd/8bh++xYBobbD5Ks8g=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_remind_return@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BSsqh4oMOgpFjLN6CrXv5EYDE74=
+			</data>
+			<key>hash2</key>
+			<data>
+			NL3arDE6lI3cSv2mgxchf2xpYhHpBqijhqbQbB2bP+Y=
+			</data>
+		</dict>
+		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_remind_uncheck@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0VWQ2MutjblqeJDSyfSKQlPjhNQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			XjQPDNKLj3o8PnTnOhY02rEWPUrTCgVWObEhNVTK0uQ=
+			</data>
+		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/image/en/liveness_shakehead_left.png</key>
 		<dict>
 			<key>hash</key>
@@ -1002,22 +1471,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TyLS7OMz0/Z6jqXnpkWZOEF4DxQ=
+			E1Ffl8yISoWP7AeartjLcXQMPl4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1jiRu81pQoaNECfe6226YWP8xc+1a04msk1KMq3FUts=
+			RlARsWLG0EH+Jsd+BIkCA0WxxVUxrdJhJLAHuGjxfbk=
 			</data>
 		</dict>
 		<key>MGFaceIDLiveCustomDetect.bundle/text/en/MGFaceIDDetection.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cs4HN5YNu4XiWXUcIMBQH+2FRrU=
+			BAsk2aMiZn6FK/VmIh0muciiHAQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			WGtKDBSNpf8nzUfYkoRlnZwyE545DB2/247B5q5pJiQ=
+			h/haOi8ayVeFBp0b7KaqvTpjFhCZZHgNPNMfkWtJJQI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1029,6 +1498,17 @@
 			<key>hash2</key>
 			<data>
 			9p2PLNix81lsvBkR2e6+HK8JevnKM0HD6VkI3Qlx+d0=
+			</data>
+		</dict>
+		<key>_README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F2/OzLyJJjGAvoEXBtGrA/IV4vY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ytitlX81mYoJq/AT2h7TRqrvYFRPs8b+ueChPlvPEM0=
 			</data>
 		</dict>
 	</dict>

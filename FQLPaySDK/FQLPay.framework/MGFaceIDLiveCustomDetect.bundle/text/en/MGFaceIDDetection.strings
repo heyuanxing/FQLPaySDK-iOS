@@ -26,3 +26,4 @@
 "livenessHomePromptNoMouthOcclusionText" = "Please avoid mouth occlusion";
 "livenessHomePromptVerticalText" = "Please pick up the phone and keep it vertical";
 "livenessHomePromptStayStillText" = "Good, please stay still";
+"livenessHomePromptTooBrightText" = "Lights too bright, please under less bright lights conditions.";
